@@ -1,0 +1,15 @@
+{
+  "name": "bubl-exchange-rate",
+  "version": "1.0.0",
+  "description": "Simple WebSocket service for educational task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Soarex16",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.5"
+  }
+}
