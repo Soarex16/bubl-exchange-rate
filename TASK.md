@@ -75,12 +75,13 @@
 # Полезные ссылки
 Я считаю, что нет ничего лучше официальной документации.
 1. React https://ru.reactjs.org/docs/getting-started.html
-2. Redux https://redux.js.org/introduction/getting-started
-3. React-router https://reactrouter.com/web/guides/quick-start
-4. Mozilla Developer Network - один из лучших ресурсов по современным веб-технологиям
+2. React lifecycle methods https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+3. Redux https://redux.js.org/introduction/getting-started
+4. React-router https://reactrouter.com/web/guides/quick-start
+5. Mozilla Developer Network - один из лучших ресурсов по современным веб-технологиям
     1. Workers API https://developer.mozilla.org/ru/docs/Web/API/Web_Workers_API
     2. Indexed DB https://developer.mozilla.org/ru/docs/Web/API/IndexedDB_API
-5. Современный учебник JavaScript - лучше читать все, потому что информация структурирована, имеется очень много практических задачек, которые было бы полезно порешать
+6. Современный учебник JavaScript - лучше читать все, потому что информация структурирована, имеется очень много практических задачек, которые было бы полезно порешать
     1. event loop https://learn.javascript.ru/event-loop
     2. промисы https://learn.javascript.ru/promise-basics
     3. Indexed DB https://learn.javascript.ru/indexeddb
